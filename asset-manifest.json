@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theree-react/static/css/main.bef053b4.css",
+    "main.js": "/theree-react/static/js/main.ce19289b.js",
+    "static/media/background.jpg": "/theree-react/static/media/background.454127bb93168cf56910.jpg",
+    "static/media/img.jpg": "/theree-react/static/media/img.e4cb8fccec29fe86cee6.jpg",
+    "index.html": "/theree-react/index.html",
+    "main.bef053b4.css.map": "/theree-react/static/css/main.bef053b4.css.map",
+    "main.ce19289b.js.map": "/theree-react/static/js/main.ce19289b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef053b4.css",
+    "static/js/main.ce19289b.js"
+  ]
+}
